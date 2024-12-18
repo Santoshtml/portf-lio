@@ -1,0 +1,35 @@
+
+.grafi{
+display: block;
+margin-right: auto;
+margin-left: auto;
+  }
+
+ .links2{
+  background-color: #EEE8AA;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 4px;
+  margin-top: 0.6rem;
+  margin-right: 1rem;
+  margin-left: 21rem;
+  padding: 1rem 0.8rem;
+  
+ }
+
+ .links2 a{
+         text-decoration: underline;
+         color: black;
+        font-size: 1.3rem;
+        font-weight: 600;
+        font-family:Comic sans Ms;
+        text-decoration: none;
+ }
+
+ .l{
+  height: 20px;
+  border: 2px solid black;
+
+}
